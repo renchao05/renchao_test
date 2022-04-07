@@ -7,7 +7,7 @@ hello,renchao!
 hello,renchao! 第6行
 hello,renchao!
 hello,renchao!
-hello,renchao!
+hello,renchao! 隔两行
 hello,renchao!
 hello,renchao! hot-fix-test
 hello,renchao!
