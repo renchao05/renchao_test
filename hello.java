@@ -10,4 +10,4 @@ hello,renchao!
 hello,renchao!
 hello,renchao!
 hello,renchao! hot-fix-test
-hello,renchao! master888.2-test
+hello,renchao! master888.2-test  .6
